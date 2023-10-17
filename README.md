@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **chaubeyankit6102001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14mo138QR4ZIBQ7t3UBBxmQW10T7jjNAX/view?usp=sharing](https://drive.google.com/file/d/14mo138QR4ZIBQ7t3UBBxmQW10T7jjNAX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14JmwP1EZ39Sl1bsRMFHft8k5eyl5AZe5/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
