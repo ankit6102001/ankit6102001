@@ -8,13 +8,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit6102001&layout=compact&card_width=275&theme=github_dark&langs_count=10" alt="Ankit Chaubey's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit6102001&layout=compact&card_width=275&theme=github_dark&langs_count=10" alt="Ankit Chaubey's Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit6102001&show_icons=true&count_private=true&hide=issues&theme=dark" alt="Ankit Chaubey's GitHub Stats" width="45%">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit6102001&show_icons=true&count_private=true&hide=issues&theme=dark" alt="Ankit Chaubey's GitHub Stats">
-</p>
-
 
 
 - 📫 How to reach me **chaubeyankit6102001@gmail.com**
