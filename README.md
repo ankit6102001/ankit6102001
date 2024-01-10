@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ankit Chaubey</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
+
+<br>
+
+"Hello, I'm Ankit Chaubey, a results-driven software developer 👨🏻‍💻 from India. With a keen eye for innovation and a knack for solving complex problems, I thrive on turning ideas into cutting-edge products. My journey is marked by a deep passion for technology, and I'm committed to pushing boundaries to deliver exceptional software solutions."
+
+<br>
 
 - 📫 How to reach me **chaubeyankit6102001@gmail.com**
 
